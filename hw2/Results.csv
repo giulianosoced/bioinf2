@@ -1,0 +1,104 @@
+,Symbol,Name,ID,UniprotAC
+0,JAG1,jagged 1,182,P78504
+1,APC,"APC, WNT signaling pathway regulator",324,P25054
+2,ATRX,"ATRX, chromatin remodeler",546,P46100
+3,BCHE,butyrylcholinesterase,590,P06276
+4,BMI1,"BMI1 proto-oncogene, polycomb ring finger",648,P35226
+5,RUNX1,runt related transcription factor 1,861,Q01196
+6,RUNX3,runt related transcription factor 3,864,Q13761
+7,CD9,CD9 molecule,928,P21926
+8,CDK2,cyclin dependent kinase 2,1017,P24941
+9,CDK3,cyclin dependent kinase 3,1018,Q00526
+10,CDK6,cyclin dependent kinase 6,1021,Q00534
+11,CHI3L1,chitinase 3 like 1,1116,P36222
+12,CSTA,cystatin A,1475,P01040
+13,CSTB,cystatin B,1476,P04080
+14,CTNND2,catenin delta 2,1501,Q9UQB3
+15,CTSB,cathepsin B,1508,P07858
+16,CTSK,cathepsin K,1513,P43235
+17,DUSP6,dual specificity phosphatase 6,1848,Q16828
+18,EGF,epidermal growth factor,1950,P01133
+19,EGFR,epidermal growth factor receptor,1956,P00533
+20,EPHB6,EPH receptor B6,2051,O15197
+21,ERBB2,erb-b2 receptor tyrosine kinase 2,2064,P04626
+22,ERN1,endoplasmic reticulum to nucleus signaling 1,2081,O75460
+23,FAT1,FAT atypical cadherin 1,2195,Q14517
+24,FN1,fibronectin 1,2335,P02751
+25,FOSL2,"FOS like 2, AP-1 transcription factor subunit",2355,P15408
+26,MTOR,mechanistic target of rapamycin kinase,2475,P42345
+27,GDNF,glial cell derived neurotrophic factor,2668,P39905
+28,GSTT1,glutathione S-transferase theta 1,2952,P30711
+29,GUCY2F,"guanylate cyclase 2F, retinal",2986,P51841
+30,H2AX,H2A histone family member X,3014,P16104
+31,H3-3A,H3 histone family member 3A,3020,P84243
+32,HIF1A,hypoxia inducible factor 1 subunit alpha,3091,Q16665
+33,HES1,hes family bHLH transcription factor 1,3280,Q14469
+34,IDH1,"isocitrate dehydrogenase (NADP(+)) 1, cytosolic",3417,O75874
+35,IDH2,"isocitrate dehydrogenase (NADP(+)) 2, mitochondrial",3418,P48735
+36,IFNA2,interferon alpha 2,3440,P01563
+37,IL1B,interleukin 1 beta,3553,P01584
+38,IL2,interleukin 2,3558,P60568
+39,CXCL8,C-X-C motif chemokine ligand 8,3576,P10145
+40,INSRR,insulin receptor related receptor,3645,P14616
+41,IRAK1,interleukin 1 receptor associated kinase 1,3654,P51617
+42,JAG2,jagged 2,3714,Q9Y219
+43,MDM4,"MDM4, p53 regulator",4194,O15151
+44,MET,"MET proto-oncogene, receptor tyrosine kinase",4233,P08581
+45,MGMT,O-6-methylguanine-DNA methyltransferase,4255,P16455
+46,MMP2,matrix metallopeptidase 2,4313,P08253
+47,MMP9,matrix metallopeptidase 9,4318,P14780
+48,MYC,"MYC proto-oncogene, bHLH transcription factor",4609,P01106
+49,NF1,neurofibromin 1,4763,P21359
+50,NOTCH1,notch 1,4851,P46531
+51,NOTCH2,notch 2,4853,Q04721
+52,NOTCH3,notch 3,4854,Q9UM47
+53,PRKN,parkin RBR E3 ubiquitin protein ligase,5071,O60260
+54,PDGFRA,platelet derived growth factor receptor alpha,5156,P16234
+55,PDK2,pyruvate dehydrogenase kinase 2,5164,Q15119
+56,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",5290,P42336
+57,PIM1,"Pim-1 proto-oncogene, serine/threonine kinase",5292,P11309
+58,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,5295,P27986
+59,PML,promyelocytic leukemia,5371,P29590
+60,PRKCA,protein kinase C alpha,5578,P17252
+61,PRKCB,protein kinase C beta,5579,P05771
+62,MAPK8,mitogen-activated protein kinase 8,5599,P45983
+63,PTK2,protein tyrosine kinase 2,5747,Q05397
+64,BRD2,bromodomain containing 2,6046,P25440
+65,RPS6KA3,ribosomal protein S6 kinase A3,6197,P51812
+66,SRPK2,SRSF protein kinase 2,6733,P78362
+67,TERT,telomerase reverse transcriptase,7015,O14746
+68,TGM2,transglutaminase 2,7052,P21980
+69,VEGFA,vascular endothelial growth factor A,7422,P15692
+70,WT1,Wilms tumor 1,7490,P19544
+71,MAPKAPK3,mitogen-activated protein kinase-activated protein kinase 3,7867,Q16644
+72,LZTR1,leucine zipper like transcription regulator 1,8216,Q8N653
+73,H3C1,histone cluster 1 H3 family member a,8350,P68431
+74,H3C2,histone cluster 1 H3 family member b,8358,P68431
+75,LTBP4,latent transforming growth factor beta binding protein 4,8425,Q8N2S1
+76,RECK,reversion inducing cysteine rich protein with kazal motifs,8434,O95980
+77,DYRK2,dual specificity tyrosine phosphorylation regulated kinase 2,8445,Q92630
+78,BHLHE40,basic helix-loop-helix family member e40,8553,O14503
+79,TNFSF10,TNF superfamily member 10,8743,P50591
+80,PROM1,prominin 1,8842,O43490
+81,NCOR1,nuclear receptor corepressor 1,9611,O75376
+82,AKT3,AKT serine/threonine kinase 3,10000,Q9Y243
+83,NDRG1,N-myc downstream regulated 1,10397,Q92597
+84,STAG2,stromal antigen 2,10735,Q8N3U4
+85,HEY1,hes related family bHLH transcription factor with YRPW motif 1,23462,Q9Y5J3
+86,BRD4,bromodomain containing 4,23476,O60885
+87,SUZ12,"SUZ12, polycomb repressive complex 2 subunit",23512,Q15022
+88,PRKD3,protein kinase D3,23683,O94806
+89,TES,testin LIM domain protein,26136,Q9UGI8
+90,HSPB8,heat shock protein family B (small) member 8,26353,Q9UJY1
+91,ZBTB7A,zinc finger and BTB domain containing 7A,51341,O95365
+92,POLK,DNA polymerase kappa,51426,Q9UBT6
+93,TRIM33,tripartite motif containing 33,51592,Q9UPN9
+94,NLK,nemo like kinase,51701,Q9UBE8
+95,STYK1,serine/threonine/tyrosine kinase 1,55359,Q6J9G0
+96,CDC42BPG,CDC42 binding protein kinase gamma,55561,Q6DT37
+97,TRIB3,tribbles pseudokinase 3,57761,Q96RU7
+98,PINK1,PTEN induced putative kinase 1,65018,Q9BXM7
+99,TAF1L,TATA-box binding protein associated factor 1 like,138474,Q8IZX4
+100,SIK1,salt inducible kinase 1,150094,P57059
+101,STKLD1,serine/threonine kinase like domain containing 1,169436,Q8NE28
+102,SEPTIN14,septin 14,346288,Q6ZU15
